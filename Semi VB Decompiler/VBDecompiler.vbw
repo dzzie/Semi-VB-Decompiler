@@ -1,5 +1,5 @@
 frmMain = 22, 22, 564, 390, , 154, 154, 696, 522, C
-modGlobals = 110, 110, 652, 478, Z
+modGlobals = 110, 110, 652, 478, 
 modOutput = 0, 0, 542, 368, 
 modPeSkeleton = 88, 88, 749, 456, 
 modNative = 44, 44, 586, 412, 
@@ -9,7 +9,7 @@ modCOM = 88, 88, 630, 456,
 clsMemoryMap = 176, 176, 837, 544, 
 clsFile = 0, 0, 661, 368, 
 modFrx = 88, 88, 630, 456, 
-frmPcode = 44, 44, 705, 412, , 110, 110, 771, 478, C
+frmPcode = 44, 44, 705, 412, Z, 110, 110, 771, 478, C
 modAntiDecompiler = 110, 110, 652, 478, 
 modPCodeToVB = 154, 154, 696, 522, 
 modPCode = 176, 176, 718, 544, 
